@@ -12,3 +12,8 @@ A simple pastel-themed calculator built using Python and CustomTkinter.
 ## Technologies Used
 - Python
 - CustomTkinter
+
+## How to run
+- Clone the repository
+- Make sure Pyton is installed on your system
+- Run the Python file
