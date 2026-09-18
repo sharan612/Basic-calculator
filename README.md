@@ -17,3 +17,6 @@ A simple pastel-themed calculator built using Python and CustomTkinter.
 - Clone the repository
 - Make sure Pyton is installed on your system
 - Run the Python file
+
+## Project Staus
+- Currently under development
